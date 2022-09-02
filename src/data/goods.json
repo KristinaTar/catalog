@@ -1,0 +1,1464 @@
+[
+  {
+    "id": 250707941,
+    "title": "Монітор 27\" Samsung Odyssey G5 LC27G55T Black (LC27G55TQWIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 52,
+    "comments_mark": 4.2,
+    "price": 11499,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/7347577.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 342178741,
+    "title": "Монітор 23.8\" Dell P2422HE (210-BBBG) USB Type-C Power Delivery 65W / RJ-45 (LAN)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 2,
+    "comments_mark": 4.5,
+    "price": 9999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/267007851.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 287673028,
+    "title": "Монітор 24.5\" Asus TUF Gaming VG259QR (90LM0530-B03370) 8-Bit / 165Hz / Adaptive-Sync / G-Sync Compatible",
+    "description": {
+      "diagonal": "24.5\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс MPRT",
+      "matrixType": "IPS"
+    },
+    "comments": 95,
+    "comments_mark": 4.4,
+    "price": 9699,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/168721089.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 88239597,
+    "title": "Монітор 23.5\" Samsung Gaming C24RG50 (LC24RG50FQIXCI / LC24RG50FZIXCI)",
+    "description": {
+      "diagonal": "23.5\"",
+      "brightness": "Стандартна: 250 кд/м²<br>Мінімальна: 200 кд/м²",
+      "contrast": "3000:1 (стандартна), 1000000:1 (динамічна)",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 570,
+    "comments_mark": 4.4,
+    "price": 6999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/106655616.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 345289861,
+    "title": "Монітор 27\" Asus TUF Gaming VG27AQZ (90LM0503-B01370) 8-Bit / G-Sync Сompatible / Adaptive-Sync / HDR10",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "350 кд/м²",
+      "contrast": "100M:1 / 1000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 4,
+    "comments_mark": 4,
+    "price": 13999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/272567547.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 259976291,
+    "title": "Монітор 23.8\" Samsung F24T350FHI Dark Gray (LF24T350FHIXCI)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1 000 :1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 240,
+    "comments_mark": 4.3,
+    "price": 5599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106672511.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 233337757,
+    "title": "Монітор 31.5\" Samsung Odyssey G7 C32G75TQSI Black (LC32G75TQSIXCI)",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "600 кд/м² (Пікова)",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 250,
+    "comments_mark": 4.2,
+    "price": 21999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106670112.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 248769925,
+    "title": "Монітор 31.5\" Samsung Odyssey G5 LC32G55T Black (LC32G55TQWIXCI)",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 46,
+    "comments_mark": 4.2,
+    "price": 12499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/133898250.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 171456965,
+    "title": "Монітор 23.8\" Asus VG249Q (90LM05E0-B03170) - Adaptive-Sync / FreeSync",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 372,
+    "comments_mark": 4.6,
+    "price": 9199,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/20684949.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 291332308,
+    "title": "Монітор 23.8\" Xiaomi Mi Desktop Monitor 1C (BHR4510GL)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "6 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 15,
+    "comments_mark": 3.8,
+    "price": 5299,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/172016957.jpg",
+    "brand": "xiaomi"
+  },
+  {
+    "id": 331936189,
+    "title": "Монітор 27\" Samsung S8 S27A800U (LS27A800UNIXCI) 8-Bit + FRC / USB Type-C 90 Вт",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м2",
+      "contrast": "1000:1 (Typ)",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 16,
+    "comments_mark": 3.8,
+    "price": 15289,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/246665704.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 332833354,
+    "title": "Монітор 27\" Samsung Odyssey AG50 S27AG502NI (LS27AG502NIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "350 кд/м2",
+      "contrast": "1000:1 (Typ)",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 12,
+    "comments_mark": 4.5,
+    "price": 15999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/248368726.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 332106670,
+    "title": "Монітор 27\" QUBE Overlord C27Q165Plus",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "6 мс",
+      "matrixType": "VA"
+    },
+    "comments": 42,
+    "comments_mark": 3.9,
+    "price": 9999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/247114416.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 10592292,
+    "title": "Монітор 27\" Samsung Curved C27F396F (LC27F396FHIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 728,
+    "comments_mark": 4.5,
+    "price": 6499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106661765.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 271707421,
+    "title": "Монітор 34\" Samsung Odyssey G5 LC34G55T Black (LC34G55TWWIXCI)",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс (MPRT)",
+      "matrixType": "VA"
+    },
+    "comments": 27,
+    "comments_mark": 4.2,
+    "price": 17999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/165921172.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 78521576,
+    "title": "Монітор 21.5\" HP 22f Silver (2XN58AA)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "300 кд/м²",
+      "contrast": "10 000 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс (Gray to Gray)",
+      "matrixType": "IPS"
+    },
+    "comments": 16,
+    "comments_mark": 4.6,
+    "price": 5399,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/13988642.jpg",
+    "brand": "hp-hewlett-packard"
+  },
+  {
+    "id": 10592250,
+    "title": "Монітор 23.5\" Samsung Curved C24F396F (LC24F396FHIXCI) - HDMI-кабель у комплекті",
+    "description": {
+      "diagonal": "23.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 1075,
+    "comments_mark": 4.4,
+    "price": 5599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106654984.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 48743758,
+    "title": "Монітор 23\" Dell P2319H Black (210-APWT)",
+    "description": {
+      "diagonal": "23\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "8 мс у звичайному режимі<br>5 мс (від сірого до сірого) у прискореному режимі",
+      "matrixType": "IPS"
+    },
+    "comments": 26,
+    "comments_mark": 4.9,
+    "price": 9299,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/12330253.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 220355533,
+    "title": "Монітор 21.5\" Acer KA222Q (UM.WX2EE.001)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 14,
+    "comments_mark": 4.6,
+    "price": 5479,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/179644651.jpg",
+    "brand": "acer"
+  },
+  {
+    "id": 21504519,
+    "title": "Монітор 34\" Samsung Curved C34H890 (LC34H890WGIXCI) - USB Type-C 65W - 8-Bit - sRGB 99.5%",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "4 мс (GTG)",
+      "matrixType": "VA"
+    },
+    "comments": 129,
+    "comments_mark": 4.3,
+    "price": 16999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/133898276.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 266254211,
+    "title": "Монітор 24\" BenQ Zowie XL2411K (9H.LJPLB.QBE)",
+    "description": {
+      "diagonal": "24\"",
+      "brightness": "320 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "TN"
+    },
+    "comments": 9,
+    "comments_mark": 4.6,
+    "price": 9299,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/178050401.jpg",
+    "brand": "benq"
+  },
+  {
+    "id": 274422098,
+    "title": "Монітор 34\" QUBE Overlord C34UQ144",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс Overdrive<br>5 мс Typycal",
+      "matrixType": "VA"
+    },
+    "comments": 55,
+    "comments_mark": 3.9,
+    "price": 14999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/163288063.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 275570873,
+    "title": "Монітор 21.5\" Philips 221V8LD /00/01",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 5,
+    "comments_mark": 5,
+    "price": 4999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/88157432.jpg",
+    "brand": "philips"
+  },
+  {
+    "id": 317983675,
+    "title": "Монітор Samsung 27\" S27A700 (LS27A700NWIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м2",
+      "contrast": "1000:1 (типове значення)",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 9,
+    "comments_mark": 5,
+    "price": 12999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/274250836.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 347253921,
+    "title": "Монітор 23.8\" AOC 24G2SPU/BK",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 3,
+    "comments_mark": 5,
+    "price": 8999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/276626230.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 269505166,
+    "title": "Мон��тор 23.8\" QUBE Overlord G24F144Plus",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 76,
+    "comments_mark": 4.1,
+    "price": 7495,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/42227477.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 219060643,
+    "title": "Монітор 28\" Samsung LU28R550 (LU28R550UQIXCI)",
+    "description": {
+      "diagonal": "28\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 159,
+    "comments_mark": 4.4,
+    "price": 11999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/106681909.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 41952656,
+    "title": "Монітор 31.5\" Samsung LU32J590UQIXCI - 10-bit - sRGB 100%",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "Типова: 270 кд/м²<br>Мінімальна: 225 кд/м²",
+      "contrast": "Типова: 3000:1<br>Мінімальна: 2000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "4 мс (GTG)",
+      "matrixType": "VA"
+    },
+    "comments": 113,
+    "comments_mark": 4.2,
+    "price": 11499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/12019672.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 345472237,
+    "title": "Монітор 24\" Samsung Professional F24T450GYI (LF24T450GYIXCI) 1920x1200 / 100% sRGB / 75 Гц",
+    "description": {
+      "diagonal": "24\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1200",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 2,
+    "comments_mark": 4,
+    "price": 6999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/273984569.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 317856223,
+    "title": "Монітор 21.5\" Lenovo ThinkVision S22e-20 (62C6KAT1UA)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м2",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 ms (Extreme mode)",
+      "matrixType": "VA"
+    },
+    "comments": 1,
+    "comments_mark": 5,
+    "price": 4699,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/228402083.jpg",
+    "brand": "lenovo"
+  },
+  {
+    "id": 266283981,
+    "title": "Монітор 34\" Xiaomi Mi Curved Gaming Monitor",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 26,
+    "comments_mark": 4,
+    "price": 16499,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/178050567.jpg",
+    "brand": "xiaomi"
+  },
+  {
+    "id": 344669974,
+    "title": "Монітор 23.8\" QUBE B24F75-IPS",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 10,
+    "comments_mark": 4.4,
+    "price": 5598,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/274772630.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 220304755,
+    "title": "Монітор 27\" Acer Nitro VG270 (UM.HV0EE.013)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 21,
+    "comments_mark": 4.3,
+    "price": 8129,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/132552200.jpg",
+    "brand": "acer"
+  },
+  {
+    "id": 283181788,
+    "title": "Монітор 21.5\" Philips V Line 222V8LA /00/01",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 9,
+    "comments_mark": 4.2,
+    "price": 4949,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/164624137.jpg",
+    "brand": "philips"
+  },
+  {
+    "id": 287669163,
+    "title": "Монітор 27\" Asus ProArt Display PA279CV (90LM06M1-B01170)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "360 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 8,
+    "comments_mark": 3.9,
+    "price": 21599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/281679857.png",
+    "brand": "asus"
+  },
+  {
+    "id": 191513113,
+    "title": "Монітор 34\" AOC CU34G2X/BK",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс",
+      "matrixType": "VA"
+    },
+    "comments": 25,
+    "comments_mark": 3.9,
+    "price": 19999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/22282923.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 250707941,
+    "title": "Монітор 27\" Samsung Odyssey G5 LC27G55T Black (LC27G55TQWIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 52,
+    "comments_mark": 4.2,
+    "price": 11499,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/7347577.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 342178741,
+    "title": "Монітор 23.8\" Dell P2422HE (210-BBBG) USB Type-C Power Delivery 65W / RJ-45 (LAN)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 2,
+    "comments_mark": 4.5,
+    "price": 9999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/267007851.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 287673028,
+    "title": "Монітор 24.5\" Asus TUF Gaming VG259QR (90LM0530-B03370) 8-Bit / 165Hz / Adaptive-Sync / G-Sync Compatible",
+    "description": {
+      "diagonal": "24.5\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс MPRT",
+      "matrixType": "IPS"
+    },
+    "comments": 95,
+    "comments_mark": 4.4,
+    "price": 9699,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/168721089.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 88239597,
+    "title": "Монітор 23.5\" Samsung Gaming C24RG50 (LC24RG50FQIXCI / LC24RG50FZIXCI)",
+    "description": {
+      "diagonal": "23.5\"",
+      "brightness": "Стандартна: 250 кд/м²<br>Мінімальна: 200 кд/м²",
+      "contrast": "3000:1 (стандартна), 1000000:1 (динамічна)",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 570,
+    "comments_mark": 4.4,
+    "price": 6999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/106655616.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 345289861,
+    "title": "Монітор 27\" Asus TUF Gaming VG27AQZ (90LM0503-B01370) 8-Bit / G-Sync Сompatible / Adaptive-Sync / HDR10",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "350 кд/м²",
+      "contrast": "100M:1 / 1000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 4,
+    "comments_mark": 4,
+    "price": 13999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/272567547.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 259976291,
+    "title": "Монітор 23.8\" Samsung F24T350FHI Dark Gray (LF24T350FHIXCI)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1 000 :1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 240,
+    "comments_mark": 4.3,
+    "price": 5599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106672511.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 233337757,
+    "title": "Монітор 31.5\" Samsung Odyssey G7 C32G75TQSI Black (LC32G75TQSIXCI)",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "600 кд/м² (Пікова)",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 250,
+    "comments_mark": 4.2,
+    "price": 21999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106670112.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 248769925,
+    "title": "Монітор 31.5\" Samsung Odyssey G5 LC32G55T Black (LC32G55TQWIXCI)",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GtG)",
+      "matrixType": "VA"
+    },
+    "comments": 46,
+    "comments_mark": 4.2,
+    "price": 12499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/133898250.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 171456965,
+    "title": "Монітор 23.8\" Asus VG249Q (90LM05E0-B03170) - Adaptive-Sync / FreeSync",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 372,
+    "comments_mark": 4.6,
+    "price": 9199,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/20684949.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 291332308,
+    "title": "Монітор 23.8\" Xiaomi Mi Desktop Monitor 1C (BHR4510GL)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "6 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 15,
+    "comments_mark": 3.8,
+    "price": 5299,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/172016957.jpg",
+    "brand": "xiaomi"
+  },
+  {
+    "id": 331936189,
+    "title": "Монітор 27\" Samsung S8 S27A800U (LS27A800UNIXCI) 8-Bit + FRC / USB Type-C 90 Вт",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м2",
+      "contrast": "1000:1 (Typ)",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 16,
+    "comments_mark": 3.8,
+    "price": 15289,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/246665704.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 332833354,
+    "title": "Монітор 27\" Samsung Odyssey AG50 S27AG502NI (LS27AG502NIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "350 кд/м2",
+      "contrast": "1000:1 (Typ)",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 12,
+    "comments_mark": 4.5,
+    "price": 15999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/248368726.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 332106670,
+    "title": "Монітор 27\" QUBE Overlord C27Q165Plus",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "6 мс",
+      "matrixType": "VA"
+    },
+    "comments": 42,
+    "comments_mark": 3.9,
+    "price": 9999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/247114416.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 10592292,
+    "title": "Монітор 27\" Samsung Curved C27F396F (LC27F396FHIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 728,
+    "comments_mark": 4.5,
+    "price": 6499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106661765.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 271707421,
+    "title": "Монітор 34\" Samsung Odyssey G5 LC34G55T Black (LC34G55TWWIXCI)",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "250 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс (MPRT)",
+      "matrixType": "VA"
+    },
+    "comments": 27,
+    "comments_mark": 4.2,
+    "price": 17999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/165921172.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 78521576,
+    "title": "Монітор 21.5\" HP 22f Silver (2XN58AA)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "300 кд/м²",
+      "contrast": "10 000 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс (Gray to Gray)",
+      "matrixType": "IPS"
+    },
+    "comments": 16,
+    "comments_mark": 4.6,
+    "price": 5399,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/13988642.jpg",
+    "brand": "hp-hewlett-packard"
+  },
+  {
+    "id": 10592250,
+    "title": "Монітор 23.5\" Samsung Curved C24F396F (LC24F396FHIXCI) - HDMI-кабель у комплекті",
+    "description": {
+      "diagonal": "23.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 1075,
+    "comments_mark": 4.4,
+    "price": 5599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/106654984.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 48743758,
+    "title": "Монітор 23\" Dell P2319H Black (210-APWT)",
+    "description": {
+      "diagonal": "23\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "8 мс у звичайному режимі<br>5 мс (від сірого до сірого) у прискореному режимі",
+      "matrixType": "IPS"
+    },
+    "comments": 26,
+    "comments_mark": 4.9,
+    "price": 9299,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/12330253.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 220355533,
+    "title": "Монітор 21.5\" Acer KA222Q (UM.WX2EE.001)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 14,
+    "comments_mark": 4.6,
+    "price": 5479,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/179644651.jpg",
+    "brand": "acer"
+  },
+  {
+    "id": 21504519,
+    "title": "Монітор 34\" Samsung Curved C34H890 (LC34H890WGIXCI) - USB Type-C 65W - 8-Bit - sRGB 99.5%",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "4 мс (GTG)",
+      "matrixType": "VA"
+    },
+    "comments": 129,
+    "comments_mark": 4.3,
+    "price": 16999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/133898276.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 266254211,
+    "title": "Монітор 24\" BenQ Zowie XL2411K (9H.LJPLB.QBE)",
+    "description": {
+      "diagonal": "24\"",
+      "brightness": "320 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "TN"
+    },
+    "comments": 9,
+    "comments_mark": 4.6,
+    "price": 9299,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/178050401.jpg",
+    "brand": "benq"
+  },
+  {
+    "id": 274422098,
+    "title": "Монітор 34\" QUBE Overlord C34UQ144",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс Overdrive<br>5 мс Typycal",
+      "matrixType": "VA"
+    },
+    "comments": 55,
+    "comments_mark": 3.9,
+    "price": 14999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/163288063.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 275570873,
+    "title": "Монітор 21.5\" Philips 221V8LD /00/01",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 5,
+    "comments_mark": 5,
+    "price": 4999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/88157432.jpg",
+    "brand": "philips"
+  },
+  {
+    "id": 317983675,
+    "title": "Монітор Samsung 27\" S27A700 (LS27A700NWIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м2",
+      "contrast": "1000:1 (типове значення)",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 9,
+    "comments_mark": 5,
+    "price": 12999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/274250836.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 347253921,
+    "title": "Монітор 23.8\" AOC 24G2SPU/BK",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 3,
+    "comments_mark": 5,
+    "price": 8999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/276626230.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 269505166,
+    "title": "Монітор 23.8\" QUBE Overlord G24F144Plus",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 76,
+    "comments_mark": 4.1,
+    "price": 7495,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/42227477.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 219060643,
+    "title": "Монітор 28\" Samsung LU28R550 (LU28R550UQIXCI)",
+    "description": {
+      "diagonal": "28\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 159,
+    "comments_mark": 4.4,
+    "price": 11999,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/106681909.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 41952656,
+    "title": "Монітор 31.5\" Samsung LU32J590UQIXCI - 10-bit - sRGB 100%",
+    "description": {
+      "diagonal": "31.5\"",
+      "brightness": "Типова: 270 кд/м²<br>Мінімальна: 225 кд/м²",
+      "contrast": "Типова: 3000:1<br>Мінімальна: 2000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "4 мс (GTG)",
+      "matrixType": "VA"
+    },
+    "comments": 113,
+    "comments_mark": 4.2,
+    "price": 11499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/12019672.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 345472237,
+    "title": "Монітор 24\" Samsung Professional F24T450GYI (LF24T450GYIXCI) 1920x1200 / 100% sRGB / 75 Гц",
+    "description": {
+      "diagonal": "24\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1200",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 2,
+    "comments_mark": 4,
+    "price": 6999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/273984569.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 317856223,
+    "title": "Монітор 21.5\" Lenovo ThinkVision S22e-20 (62C6KAT1UA)",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м2",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 ms (Extreme mode)",
+      "matrixType": "VA"
+    },
+    "comments": 1,
+    "comments_mark": 5,
+    "price": 4699,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/228402083.jpg",
+    "brand": "lenovo"
+  },
+  {
+    "id": 266283981,
+    "title": "Монітор 34\" Xiaomi Mi Curved Gaming Monitor",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 26,
+    "comments_mark": 4,
+    "price": 16499,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/178050567.jpg",
+    "brand": "xiaomi"
+  },
+  {
+    "id": 344669974,
+    "title": "Монітор 23.8\" QUBE B24F75-IPS",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 10,
+    "comments_mark": 4.4,
+    "price": 5598,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/274772630.jpg",
+    "brand": "qube"
+  },
+  {
+    "id": 220304755,
+    "title": "Монітор 27\" Acer Nitro VG270 (UM.HV0EE.013)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 21,
+    "comments_mark": 4.3,
+    "price": 8129,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/132552200.jpg",
+    "brand": "acer"
+  },
+  {
+    "id": 283181788,
+    "title": "Монітор 21.5\" Philips V Line 222V8LA /00/01",
+    "description": {
+      "diagonal": "21.5\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "VA"
+    },
+    "comments": 9,
+    "comments_mark": 4.2,
+    "price": 4949,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/164624137.jpg",
+    "brand": "philips"
+  },
+  {
+    "id": 287669163,
+    "title": "Монітор 27\" Asus ProArt Display PA279CV (90LM06M1-B01170)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "360 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "3840x2160 (4K UltraHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 8,
+    "comments_mark": 3.9,
+    "price": 21599,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/281679857.png",
+    "brand": "asus"
+  },
+  {
+    "id": 191513113,
+    "title": "Монітор 34\" AOC CU34G2X/BK",
+    "description": {
+      "diagonal": "34\"",
+      "brightness": "300 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "3440x1440",
+      "matrixSpeed": "1 мс",
+      "matrixType": "VA"
+    },
+    "comments": 25,
+    "comments_mark": 3.9,
+    "price": 19999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/22282923.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 345707008,
+    "title": "Монітор Samsung 24\" Odyssey G3 S24AG300NI (LS24AG300NIXCI)",
+    "description": {
+      "diagonal": "24\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс (MPRT)",
+      "matrixType": "VA"
+    },
+    "comments": 3,
+    "comments_mark": 4,
+    "price": 7999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/273424763.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 347496747,
+    "title": "Монітор 27\" Dell E2722H (210-BBRO)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс (от серого к серому в экстремальном режиме)<br>8 мс (от серого к серому в ускоренном режиме)",
+      "matrixType": "IPS"
+    },
+    "comments": 0,
+    "comments_mark": 0,
+    "price": 7499,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/276955586.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 287669978,
+    "title": "Монітор 27\" Asus ROG Strix XG27AQ HDR Gaming Monitor (90LM06U0-B01370)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "400 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 3,
+    "comments_mark": 5,
+    "price": 20399,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/168720385.jpg",
+    "brand": "asus"
+  },
+  {
+    "id": 59389840,
+    "title": "Монітор 27\" Acer Nitro VG270UPbmiipx (UM.HV0EE.P01) - 8-Bit - 99% sRGB",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "350 кд/м²",
+      "contrast": "Статична: 1000:1&lt;br&gt;Динамічна: 100M:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 175,
+    "comments_mark": 4.3,
+    "price": 14599,
+    "image": "https://content.rozetka.com.ua/goods/images/big_tile/233359198.jpg",
+    "brand": "acer"
+  },
+  {
+    "id": 343035601,
+    "title": "Монітор 27\" Samsung Odyssey G5 S27AG55 (LS27AG552EIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м²",
+      "contrast": "2500:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс (MPRT)",
+      "matrixType": "VA"
+    },
+    "comments": 1,
+    "comments_mark": 3,
+    "price": 13999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/268494249.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 191125915,
+    "title": "Монітор 27\" AOC CQ27G2U/BK",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1 / 80000000:1",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "1 мс",
+      "matrixType": "VA"
+    },
+    "comments": 50,
+    "comments_mark": 4.1,
+    "price": 11999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/22236776.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 264070376,
+    "title": "Монітор 23.8\" Dell S2421H (210-AXKR)",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "4 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 26,
+    "comments_mark": 4.3,
+    "price": 7790,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/178039990.jpg",
+    "brand": "dell"
+  },
+  {
+    "id": 330915694,
+    "title": "Монітор 27\" Samsung S27A600 (LS27A600NWIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м2",
+      "contrast": "1000:1 (Typ), 700:1 (Min)",
+      "resolution": "2560x1440 (2K QHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 11,
+    "comments_mark": 4.3,
+    "price": 12999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/246193274.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 19804253,
+    "title": "Монітор 23.8\" Philips 243V7QDSB /00/01",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1 (SmartContrast: 10 000 000 : 1)",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс (сірий до сірого)",
+      "matrixType": "IPS"
+    },
+    "comments": 138,
+    "comments_mark": 4.5,
+    "price": 6099,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/11109533.jpg",
+    "brand": "philips"
+  },
+  {
+    "id": 309984048,
+    "title": "Монітор 23.8\" AOC 24G2ZE/BK",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "350 кд/м²",
+      "contrast": "Статична: 1000:1<br>Динамічна: 80 000 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "0.5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 0,
+    "comments_mark": 0,
+    "price": 10999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/194142136.jpg",
+    "brand": "aoc"
+  },
+  {
+    "id": 253401161,
+    "title": "Монітор 27\" Samsung LF27T450 Black (LF27T450FQIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс (GTG)",
+      "matrixType": "IPS"
+    },
+    "comments": 84,
+    "comments_mark": 4.4,
+    "price": 7399,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/171285296.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 345708178,
+    "title": "Монітор Samsung 27\" Odyssey G3 LS27AG300NIXCI Black (LS27AG300NIXCI)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "250 кд/м²",
+      "contrast": "3000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "1 мс (MPRT)",
+      "matrixType": "VA"
+    },
+    "comments": 1,
+    "comments_mark": 5,
+    "price": 9999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big_tile/273433087.jpg",
+    "brand": "samsung"
+  },
+  {
+    "id": 330747088,
+    "title": "Монітор 23.8\" HP M24fd (474U1AA) 75Hz / USB Type-C 65W / 99% sRGB",
+    "description": {
+      "diagonal": "23.8\"",
+      "brightness": "300 кд/м²",
+      "contrast": "Статична: 1000:1<br>Динамічна: 10 000 000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 5,
+    "comments_mark": 5,
+    "price": 8999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/244427211.jpg",
+    "brand": "hp-hewlett-packard"
+  },
+  {
+    "id": 308928518,
+    "title": "Монітор 27\" Dell P2722H (210-AZYZ)",
+    "description": {
+      "diagonal": "27\"",
+      "brightness": "300 кд/м²",
+      "contrast": "1000:1",
+      "resolution": "1920x1080 (FullHD)",
+      "matrixSpeed": "5 мс",
+      "matrixType": "IPS"
+    },
+    "comments": 1,
+    "comments_mark": 5,
+    "price": 10999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big_tile/192574392.jpg",
+    "brand": "dell"
+  }
+]
