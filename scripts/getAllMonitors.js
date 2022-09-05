@@ -14,15 +14,15 @@ async function main() {
 
     console.log(goods.length);
 
-    let finalGoods = goods.map((good) => ({
+    let collectedGoods = goods.map((good) => ({
         id: good.id,
         title: good.title,
+        href: good.href,
         description: good.description_fields && {
             diagonal: good.description_fields["21362"]?.go_value,
             brightness: good.description_fields["21363"]?.go_value,
             contrast: good.description_fields["21364"]?.go_value,
             resolution: good.description_fields["21368"]?.go_value,
-            matrixSpeed: good.description_fields["21385"]?.go_value,
             matrixType: good.description_fields["22050"]?.go_value,
         },
         comments: good?.comments_amount,
@@ -32,7 +32,27 @@ async function main() {
         brand: good?.brand,
     }));
 
-    finalGoods = finalGoods.filter((good) => good.description !== null);
+    collectedGoods = collectedGoods.filter(
+        (good) => good.description != null
+        && good.description.diagonal != null
+        && good.description.brightness != null
+        && good.description.contrast != null
+        && good.description.resolution != null
+        && good.description.matrixType != null
+    );
+
+    // remove duplicates
+    const ids = [];
+    const finalGoods = [];
+    for (let i = 0; i < collectedGoods.length; i++) {
+
+        if (!ids.includes(collectedGoods[i].id)) {
+            finalGoods.push(collectedGoods[i]);
+
+            ids.push(collectedGoods[i].id);
+        }
+    }
+    console.log(`finalGoods: ${finalGoods.length}`);
 
     fs.writeFileSync('./goods.json', JSON.stringify(finalGoods, null, 2));
 }

@@ -1,4 +1,19 @@
+@import "../vars";
+
 $checkbox-size: 15px;
+
+.filters {
+  width: 100%;
+  padding-top: 30px;
+
+  &__caption {
+    color:  $text-color-grey;
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 10px;
+    text-transform: uppercase;
+  }
+}
 
 .checkbox{
   &__area{
@@ -9,6 +24,7 @@ $checkbox-size: 15px;
   }
 
   &__container {
+    text-transform: capitalize;
     display: block;
     position: relative;
     padding-left: 30px;
