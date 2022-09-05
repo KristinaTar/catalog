@@ -7,7 +7,7 @@ function Navbar() {
       <a href="#home" className="header__logo"></a>
 
       <nav className="nav">
-        <ul className="nav__list">
+        {/*<ul className="nav__list">
           <li className="nav__item"><a className="nav__link nav__link--is-active is-active" href="#0">apple</a></li>
           <li className="nav__item"><a className="nav__link" href="#1">samsung</a></li>
           <li className="nav__item"><a className="nav__link" href="#2">смартфоны и телефоны</a></li>
@@ -17,7 +17,8 @@ function Navbar() {
           <li className="nav__item"><a className="nav__link" href="#5">планшеты</a></li>
           <li className="nav__item"><a className="nav__link" href="#6">фото</a></li>
           <li className="nav__item"><a className="nav__link" href="#7">видео</a></li>
-        </ul>
+        </ul>*/}
+
       </nav>
     </header>
   );
