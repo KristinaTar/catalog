@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+Технології:
+React, JavaScript, TypeScript, HTML, CSS, SCSS, API, Hooks, functional components.
+Для даного завдання я не побачила доцільності використання Webpack, усі функції по зборці виконує сам Реакт. Але, якщо потрібно, я готова вивчати і впроваджувати цю технологію.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Як працює проект:
+Спочатку на екран виводиться перші 12 карточок товару, а саме монітори з такими даними як повна назва монітору, фото товару, код товару, рейтинг, к-сть відгуків, ціна в грн, та кнопка купити, яка веде на обраний монітор на сайті Розетки.
+Кнопка show more показує ще 12 наступних товарів і т.д.
+В лівій частині екрану знаходять фільтри по бренду, ціні, діагоналі, розширенню та типу матриці. При зміні хоча б одного фільтру моментально рендериться компонента і ми бачимо перші 12 моніторів, які підходять для вибраного фільтра, якщо товарів більше немає кнопка show more ховається.
+В подальших планах реалізувати pagination.
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Дані:
+Викристала API Розетки для того, щоб отримати монітори і мати достатню вибірку для реалізації фільтрів.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Верстка:
+Використовувала grid, для деяких окремих елементів flex, з метою вирівнювання елемента по центру.
+Для кожної компоненти прописала свої стилі в файлах scss. Для зручності глобальні стилі, які використовуються по всьому проекту записала в окремий файл vars.scss.
+Оскільки завдання стояло реалізувати пошук товарів за допомогою фільтрів, тому верстці я не приділяла багато уваги, версія в основному декстопна. За допомогою медіа запитів налаштувала мінімально необхідні зміни для мобільної версії та планшета (фільтри та хедер не responsive).
 
-### `npm test`
+Логіка:
+Увесь проект поділила на окремі компоненти, які можна у разі необхдіності перевикористовувати у різних місцях,
+а слайдер із фільтром можна і на інших проектах.
+Усі компоненти рендеряться в App.tsx, звідти відповідно і прокидаються необхідні пропси в кожну компоненту.
+Слідувала тільки best practice, тому використовувала функціональні компоненти, стейт зберігала в хуках.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Запуск проекту:
+1. git clone ___
+2. npm install
+3. npm run start
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
